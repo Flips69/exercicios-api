@@ -22,25 +22,18 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 ```
 2. Acesse o diretório do projeto:
 ```
-
 cd exercicios-api
 ```
-
 3. Inicializando o Repositorio
 ```
-
 composer update
 ```
-
 4. Copiando o .env do exemplo
 ```
-
 copy .env.example .env
 ```
-
 5. Acessar o Visual Studio Code
 ```
-
 code .
 ```
 
